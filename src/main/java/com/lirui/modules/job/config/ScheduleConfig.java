@@ -10,9 +10,7 @@ import java.util.Properties;
 /**
  * 定时任务配置
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-04-20 23:38
+ * @date 2017-09-29
  */
 @Configuration
 public class ScheduleConfig {

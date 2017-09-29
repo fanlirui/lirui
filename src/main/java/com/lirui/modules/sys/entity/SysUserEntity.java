@@ -11,10 +11,8 @@ import java.util.List;
 
 /**
  * 系统用户
- * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年9月18日 上午9:28:55
+ *
+ * @date 2017-09-29
  */
 public class SysUserEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

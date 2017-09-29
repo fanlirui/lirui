@@ -7,9 +7,8 @@ import com.lirui.common.utils.SpringContextUtils;
 
 /**
  * 文件上传Factory
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-26 10:18
+ *
+ * @date 2017-09-29
  */
 public final class OSSFactory {
     private static SysConfigService sysConfigService;

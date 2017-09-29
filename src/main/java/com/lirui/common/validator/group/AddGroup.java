@@ -2,9 +2,8 @@ package com.lirui.common.validator.group;
 
 /**
  * 新增数据 Group
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-16 0:04
+ *
+ * @date 2017-09-29
  */
 public interface AddGroup {
 }

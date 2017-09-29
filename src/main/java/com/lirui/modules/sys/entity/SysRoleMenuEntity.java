@@ -5,10 +5,8 @@ import java.io.Serializable;
 
 /**
  * 角色与菜单对应关系
- * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年9月18日 上午9:28:13
+ *
+ * @date 2017-09-29
  */
 public class SysRoleMenuEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

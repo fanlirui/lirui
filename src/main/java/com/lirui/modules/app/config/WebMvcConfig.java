@@ -15,9 +15,8 @@ import java.util.List;
 /**
  * MVC配置
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-04-20 22:30
+ *
+ * @date 2017-09-29
  */
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
@@ -38,8 +37,8 @@ public class WebMvcConfig extends WebMvcConfigurerAdapter {
 
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
-//        System.out.println("-----------------+----------------------------------++++++++++++++---------------");
-        registry.addViewController("/").setViewName("login2.html");
+        registry.addViewController("/").setViewName("home/index.html");//前台
+        registry.addViewController("/admin").setViewName("login.html");//后台
         registry.setOrder(Ordered.HIGHEST_PRECEDENCE);
         super.addViewControllers(registry);
     }

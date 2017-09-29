@@ -7,10 +7,9 @@ import java.util.Map;
 
 /**
  * 系统配置信息
- * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年12月4日 下午6:49:01
+ *
+ *
+ * @date 2017-09-29
  */
 public interface SysConfigService {
 	

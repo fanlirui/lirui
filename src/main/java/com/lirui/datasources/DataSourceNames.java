@@ -3,9 +3,7 @@ package com.lirui.datasources;
 /**
  * 增加多数据源，在此配置
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/8/18 23:46
+ * @date 2017-09-29
  */
 public interface DataSourceNames {
     String FIRST = "first";

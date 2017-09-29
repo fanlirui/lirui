@@ -6,6 +6,8 @@ import java.util.Date;
 
 /**
  * 系统用户Token
+ *
+ * @date 2017-09-29
  */
 public class SysUserTokenEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

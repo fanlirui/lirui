@@ -12,9 +12,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Redis切面处理类
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-07-17 23:30
+ * @date 2017-09-29
  */
 @Aspect
 @Configuration

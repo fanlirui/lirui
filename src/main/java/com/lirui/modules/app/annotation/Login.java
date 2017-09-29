@@ -4,9 +4,8 @@ import java.lang.annotation.*;
 
 /**
  * app登录效验
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/9/23 14:30
+ *
+ * @date 2017-09-29
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

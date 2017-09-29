@@ -2,10 +2,8 @@ package com.lirui.common.utils;
 
 /**
  * 常量
- * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年11月15日 下午1:23:52
+ *
+ * @date 2017-09-29
  */
 public class Constant {
 	/** 超级管理员ID */

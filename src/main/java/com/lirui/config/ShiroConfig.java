@@ -20,10 +20,7 @@ import java.util.Map;
 
 /**
  * Shiro配置
- *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-04-20 18:33
+ * @date 2017-09-29
  */
 @Configuration
 public class ShiroConfig {
@@ -69,6 +66,8 @@ public class ShiroConfig {
         filterMap.put("/favicon.ico", "anon");
         filterMap.put("/captcha.jpg", "anon");
         filterMap.put("/", "anon");
+        filterMap.put("/home/**", "anon");//home文件下的样式
+        filterMap.put("/admin", "anon");
         filterMap.put("/**", "oauth2");
         shiroFilter.setFilterChainDefinitionMap(filterMap);
 

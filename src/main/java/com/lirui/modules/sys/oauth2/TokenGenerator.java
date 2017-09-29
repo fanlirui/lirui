@@ -8,9 +8,7 @@ import java.util.UUID;
 /**
  * 生成token
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-05-20 14:41
+ * @date 2017-09-29
  */
 public class TokenGenerator {
 
@@ -18,7 +16,7 @@ public class TokenGenerator {
         return generateValue(UUID.randomUUID().toString());
     }
 
-    private static final char[] hexCode = "0123456789abcdef".toCharArray();
+    private static final char[] hexCode = "fanliruiwebGKYUFTYV".toCharArray();
 
     public static String toHexString(byte[] data) {
         if(data == null) {

@@ -3,9 +3,7 @@ package com.lirui.common.utils;
 /**
  * Redis所有Keys
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-07-18 19:51
+ * @date 2017-09-29
  */
 public class RedisKeys {
 

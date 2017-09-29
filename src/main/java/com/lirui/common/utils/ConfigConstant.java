@@ -2,9 +2,8 @@ package com.lirui.common.utils;
 
 /**
  * 系统参数相关Key
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-26 10:33
+ *
+ * @date 2017-09-29
  */
 public class ConfigConstant {
     /**

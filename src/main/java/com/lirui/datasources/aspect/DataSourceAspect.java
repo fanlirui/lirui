@@ -17,9 +17,8 @@ import java.lang.reflect.Method;
 
 /**
  * 多数据源，切面处理类
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/9/16 22:20
+ *
+ * @date 2017-09-29
  */
 @Aspect
 @Component
