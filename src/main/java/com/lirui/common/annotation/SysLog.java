@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * 系统日志注解
- *
+ * Fix
  * @date 2017-09-29
  */
 @Target(ElementType.METHOD)
